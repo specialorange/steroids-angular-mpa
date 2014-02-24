@@ -11,7 +11,7 @@
     "tests"
   ],
   "dependencies": {
-    "steroids-js": "2.7.x",
+    "steroids-js": "3.1.x",
     "angular": "1.0.7",
     "underscore": "1.5.1",
     "restangular": "1.0.7"
